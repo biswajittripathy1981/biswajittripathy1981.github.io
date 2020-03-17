@@ -73,7 +73,5 @@ topics:
     
     - name: Angular
     web_url: https://github.com/topics/machine-learning
-    image_url: 
 
-      
 theme: jekyll-theme-merlot
